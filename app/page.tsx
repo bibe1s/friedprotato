@@ -85,7 +85,7 @@ export default function PreviewPage() {
       <div className="min-h-screen bg-black flex items-center justify-center">
         <div className="text-center">
           <div className="w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto mb-4" />
-          <p className="text-gray-400">Loading portfolio...</p>
+          <p className="text-gray-400">Loading portfolio....</p>
         </div>
       </div>
     );
