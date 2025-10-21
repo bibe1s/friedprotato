@@ -44,7 +44,7 @@ export function BorderStyleSelector({ value, onChange }: BorderStyleSelectorProp
   return (
     <div ref={dropdownRef} className="space-y-2 relative"> {/* Added relative for better absolute positioning */}
       <label className="block text-sm font-medium text-gray-700">
-        Border Style
+        Border Style 
       </label>
       
       {/* Selected Style Display */}
